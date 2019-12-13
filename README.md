@@ -32,8 +32,8 @@ I have uploaded a notebook here to showcase my work related to the above questio
 
 ## Results<a name="results"></a>
 
-The results insights could be found at post . Please click the link to get a summary of my work.
+The results insights could be found at [post](https://medium.com/@ghoshahana99/a-descriptive-analysis-of-tmdb-dataset-d9e7e691cab5). Please click the link to get a summary of my work.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data in the Kaggle link available her here. Thank the Udacity Data Science Nano-Degree Program for giving me this opportunity to do the project.
+ Thank you, the Udacity Data Science Nano-Degree Program for giving me this opportunity to do the project.
