@@ -3,18 +3,18 @@
 
 Udacity Data Science Nanodegree Project. Analyzing  the TMDb Movie data set. This data set has more than 10k movies from 1965 to 2015. We do a  descriptive analysis to answer questions regarding the data.
 
-## Table of Contents
-- Installation
-- Project_Motivation
-- File Description
-- Results
-- Licensing, Authors, and Acknowledgements
+### Table of Contents
+1. [Installation](#installation)
+2. [Project_Motivation](#motivation)
+3. [File Description](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-Installation 
+## Installation <a name="installation"></a>
 
 Python 3 is required for this Project.*.
 
-Project Motivation
+## Project Motivation<a name="motivation"></a>
 
 This is an Udacity Data Science Nanodegree project. I chose TMDb Movie dataset to answer the following questions:
 
@@ -24,16 +24,16 @@ This is an Udacity Data Science Nanodegree project. I chose TMDb Movie dataset t
  4.Check the ratings of the top 10 commercially most successful movies
  5.Count of movies with +ve profits over the years and the average profits by years
 
-File Descriptions 
+## File Descriptions <a name="files"></a>
 
 tmdb-movies.csv contains more than 10k movies from 1965 to 2015. It consists the budget, revenue, popularity, rating, release_year, runtime, cast, director and other movie related variables.
 
-There is also a notebook available here to show my work related to the above questions. I have also uploaded the html file for the same.
+I have uploaded a notebook here to showcase my work related to the above questions. A html file is also uploaded for the same.
 
-Results
+## Results<a name="results"></a>
 
-The results insights could be found at post . Please refer to this link to get a summary of my work.
+The results insights could be found at post . Please click the link to get a summary of my work.
 
-Licensing, Authors, Acknowledgements
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 You can find the Licensing for the data in the Kaggle link available her here. Thank the Udacity Data Science Nano-Degree Program for giving me this opportunity to do the project.
