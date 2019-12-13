@@ -18,11 +18,11 @@ Python 3 is required for this Project.*.
 
 This is an Udacity Data Science Nanodegree project. I chose TMDb Movie dataset to answer the following questions:
 
- 1.The average runtime of the movies and distribution of runtime
- 2.The Nature of relationship between Budget vs Profit, Budget vs Ratings & Rating vs Profit
- 3.The movie with maximum profit and maximum loss from the data
- 4.Check the ratings of the top 10 commercially most successful movies
- 5.Count of movies with +ve profits over the years and the average profits by years
+ 1. The average runtime of the movies and distribution of runtime
+ 2. The Nature of relationship between Budget vs Profit, Budget vs Ratings & Rating vs Profit
+ 3. The movie with maximum profit and maximum loss from the data
+ 4. Check the ratings of the top 10 commercially most successful movies
+ 5. Count of movies with +ve profits over the years and the average profits by years
 
 ## File Descriptions <a name="files"></a>
 
