@@ -4,11 +4,11 @@
 Udacity Data Science Nanodegree Project. Analyzing  the TMDb Movie data set. This data set has more than 10k movies from 1965 to 2015. We do a  descriptive analysis to answer questions regarding the data.
 
 ## Table of Contents
-*Installation
-*Project_Motivation
-*File Description
-*Results
-*Licensing, Authors, and Acknowledgements
+- Installation
+- Project_Motivation
+- File Description
+- Results
+- Licensing, Authors, and Acknowledgements
 
 Installation 
 
