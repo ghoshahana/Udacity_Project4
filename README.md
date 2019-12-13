@@ -32,7 +32,7 @@ I have uploaded a notebook here to showcase my work related to the above questio
 
 ## Results<a name="results"></a>
 
-The results insights could be found at [post](https://medium.com/@ghoshahana99/a-descriptive-analysis-of-tmdb-dataset-d9e7e691cab5). Please click the link to get a summary of my work.
+The results and insights can be found at [post](https://medium.com/@ghoshahana99/a-descriptive-analysis-of-tmdb-dataset-d9e7e691cab5). Please click the link to get a summary of my work.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
