@@ -1,15 +1,14 @@
-# Udacity_Project4
-
-Udacity-Project-4: Writing a blog post
+# Udacity-Project-4: Writing a blog post
+===================================
 
 Udacity Data Science Nanodegree Project. Analyzing  the TMDb Movie data set. This data set has more than 10k movies from 1965 to 2015. We do a  descriptive analysis to answer questions regarding the data.
 
-Table of Contents
-1.Installation
-2.Project_Motivation
-3.File Description
-4.Results
-5.Licensing, Authors, and Acknowledgements
+## Table of Contents
+*Installation
+*Project_Motivation
+*File Description
+*Results
+*Licensing, Authors, and Acknowledgements
 
 Installation 
 
